@@ -1,1 +1,1 @@
-# MINOR_PROJECT_1
+# Exploratory Data Analysis (EDA) Project
